@@ -5,7 +5,7 @@ I'm **Chirag Prajapati** (he/him).
 
 - 🌸 I’m passionate about crafting beautiful, user-friendly web interfaces.  
 - 👀 Interested in **Frontend Development** and modern web technologies.
-- 
+  
 - 🌱 Currently learning:
 -  **Node.js**
 
