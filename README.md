@@ -6,7 +6,7 @@ I'm **Chirag Prajapati** (he/him).
 - 🌸 I’m passionate about crafting beautiful, user-friendly web interfaces.  
 - 👀 Interested in **Frontend Development** and modern web technologies.  
 - 🌱 Currently learning:
-  - 🎨 **Tailwind CSS**
+  
 - 💞️ Looking to collaborate on **open-source frontend projects** or anything involving **React JS**.  
 - 📫 How to reach me:  
   - 📧 **Email:** [chiragvkp.207@gmail.com](mailto:chiragvkp.207@gmail.com)  
@@ -20,7 +20,7 @@ I'm **Chirag Prajapati** (he/him).
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React JS](https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ⭐️ Thanks for stopping by! Don’t forget to **Star** a project if you like it! 🌸✨
